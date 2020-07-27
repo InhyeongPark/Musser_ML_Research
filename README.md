@@ -1,6 +1,6 @@
 # Musser_ML_Research
 
-## The goal is to understand machine learning more easily from the perspective of undergraduates before building comprehensive knowledge. 
+## The goal is to understand machine learning more easily from the perspective of undergraduates before building comprehensive knowledge. The [Contents](https://github.com/InhyeongPark/Musser_ML_Research/blob/master/Machine%20Learning_pdf.pdf) will help people make basic concepts and the Labs will show how to use it.
 
 ### * Contents
 * [Machine Learning](https://github.com/InhyeongPark/Musser_ML_Research/blob/master/Machine%20Learning_pdf.pdf)
